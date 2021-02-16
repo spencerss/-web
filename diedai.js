@@ -23,4 +23,6 @@ let result1 = arr1.map(item => {
 })
 
 console.log(result1)
+
+
     
